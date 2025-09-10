@@ -34,4 +34,4 @@ Movido por curiosidade e paixão por tecnologia, gosto de criar soluções prát
 
 ---
 
-> “Tecnologia só faz sentido se for eficiente, inclusiva e ética.”
+“Tecnologia só faz sentido se for eficiente, inclusiva e ética.”
