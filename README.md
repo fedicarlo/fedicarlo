@@ -2,7 +2,7 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Aspirante a Engenheiro de Software e Especialista em Segurança Digital  
-  - Foco em Automação, Inteligência Artificial e Desenvolvimento Web
+- Foco em Automação, Inteligência Artificial e Desenvolvimento Web
 
 ---
 
@@ -34,4 +34,4 @@ Movido por curiosidade e paixão por tecnologia, gosto de criar soluções prát
 
 ---
 
-“Tecnologia só faz sentido se for eficiente, inclusiva e ética.”
+>“Tecnologia só faz sentido se for eficiente, inclusiva e ética.”
